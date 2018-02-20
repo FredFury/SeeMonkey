@@ -10,19 +10,15 @@ This project should have the following compoments:
 4. Testing & implimentation
 
 
-References:
-The fantastic raccoon detector:
-
-https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9
-
-https://github.com/datitran/raccoon_dataset
+References:<br />
+The fantastic raccoon detector:<br />
+https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9<br />
+https://github.com/datitran/raccoon_dataset<br />
 
 
-The GCP tutorial:
+The GCP tutorial:<br />
+https://cloud.google.com/blog/big-data/2017/06/training-an-object-detector-using-cloud-machine-learning-engine<br />
 
-https://cloud.google.com/blog/big-data/2017/06/training-an-object-detector-using-cloud-machine-learning-engine
 
-
-Sanjay Govindan's tutorial:
-
-https://medium.com/google-cloud/object-detection-tensorflow-and-google-cloud-platform-72e0a3f3bdd6
+Sanjay Govindan's tutorial:<br />
+https://medium.com/google-cloud/object-detection-tensorflow-and-google-cloud-platform-72e0a3f3bdd6<br />
